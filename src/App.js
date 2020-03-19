@@ -1,26 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { GlobalStyle } from './styles/GlobalStyle';
+import Header from './components/Header';
+import SearchBar from './components/SearchBar';
+import RandomButton from './components/RandomButton';
+import Grid from './components/Grid';
+import LoadMoreButton from './components/LoadMoreButton';
+import { AppProvider } from './context';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+  <AppProvider>
+    <>
+      <GlobalStyle />
+      <Header />
+      <SearchBar />
+      <RandomButton />
+      <Grid />
+      <LoadMoreButton />
+    </>
+  </AppProvider>
+);
 
 export default App;
