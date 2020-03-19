@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Mlk777/react-wikipedia-viewer/static/css/main.16470019.chunk.css",
-    "main.js": "/Mlk777/react-wikipedia-viewer/static/js/main.58f95037.chunk.js",
-    "main.js.map": "/Mlk777/react-wikipedia-viewer/static/js/main.58f95037.chunk.js.map",
-    "runtime-main.js": "/Mlk777/react-wikipedia-viewer/static/js/runtime-main.83e86f8b.js",
-    "runtime-main.js.map": "/Mlk777/react-wikipedia-viewer/static/js/runtime-main.83e86f8b.js.map",
-    "static/js/2.24ce2645.chunk.js": "/Mlk777/react-wikipedia-viewer/static/js/2.24ce2645.chunk.js",
-    "static/js/2.24ce2645.chunk.js.map": "/Mlk777/react-wikipedia-viewer/static/js/2.24ce2645.chunk.js.map",
-    "index.html": "/Mlk777/react-wikipedia-viewer/index.html",
-    "precache-manifest.cee60f8867d09755c102ce36f1b5242f.js": "/Mlk777/react-wikipedia-viewer/precache-manifest.cee60f8867d09755c102ce36f1b5242f.js",
-    "service-worker.js": "/Mlk777/react-wikipedia-viewer/service-worker.js",
-    "static/css/main.16470019.chunk.css.map": "/Mlk777/react-wikipedia-viewer/static/css/main.16470019.chunk.css.map",
-    "static/js/2.24ce2645.chunk.js.LICENSE.txt": "/Mlk777/react-wikipedia-viewer/static/js/2.24ce2645.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/Mlk777/react-wikipedia-viewer/static/media/logo.9282ac41.png"
+    "main.css": "/react-wikipedia-viewer/static/css/main.16470019.chunk.css",
+    "main.js": "/react-wikipedia-viewer/static/js/main.58f95037.chunk.js",
+    "main.js.map": "/react-wikipedia-viewer/static/js/main.58f95037.chunk.js.map",
+    "runtime-main.js": "/react-wikipedia-viewer/static/js/runtime-main.177450bd.js",
+    "runtime-main.js.map": "/react-wikipedia-viewer/static/js/runtime-main.177450bd.js.map",
+    "static/js/2.5702b6dc.chunk.js": "/react-wikipedia-viewer/static/js/2.5702b6dc.chunk.js",
+    "static/js/2.5702b6dc.chunk.js.map": "/react-wikipedia-viewer/static/js/2.5702b6dc.chunk.js.map",
+    "index.html": "/react-wikipedia-viewer/index.html",
+    "precache-manifest.8c2b3b1a7ab2196a8010e35c086dd56d.js": "/react-wikipedia-viewer/precache-manifest.8c2b3b1a7ab2196a8010e35c086dd56d.js",
+    "service-worker.js": "/react-wikipedia-viewer/service-worker.js",
+    "static/css/main.16470019.chunk.css.map": "/react-wikipedia-viewer/static/css/main.16470019.chunk.css.map",
+    "static/js/2.5702b6dc.chunk.js.LICENSE.txt": "/react-wikipedia-viewer/static/js/2.5702b6dc.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/react-wikipedia-viewer/static/media/logo.9282ac41.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.83e86f8b.js",
-    "static/js/2.24ce2645.chunk.js",
+    "static/js/runtime-main.177450bd.js",
+    "static/js/2.5702b6dc.chunk.js",
     "static/css/main.16470019.chunk.css",
     "static/js/main.58f95037.chunk.js"
   ]
